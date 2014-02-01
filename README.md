@@ -1,4 +1,4 @@
-Presentation on Public Lab's RIFFLE water quality platform
+Presentation on Public Lab's [RIFFLE water quality platform](http://publiclab.org/wiki/riffle)
 
 Build using:
 
